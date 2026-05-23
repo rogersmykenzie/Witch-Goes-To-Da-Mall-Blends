@@ -1,0 +1,43 @@
+# Blender temporary/session files
+*.blend1
+*.blend2
+*.blend@
+*.blend~
+*.blend.tmp
+
+# Blender autosaves
+*.autosave
+
+# Blender cache
+cache/
+__pycache__/
+
+# Simulation caches
+*.bphys
+*.vdb
+
+# Render outputs
+renders/
+output/
+*.png
+*.jpg
+*.jpeg
+*.exr
+*.tiff
+*.bmp
+*.mp4
+*.mov
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Python
+*.pyc
+
+# Logs
+*.log
